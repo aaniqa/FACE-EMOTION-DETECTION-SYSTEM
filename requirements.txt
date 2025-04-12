@@ -1,0 +1,14 @@
+total invesment=105000
+marketing managers 2 per flat
+investments
+1.flat purchase=80000
+2.electricity=10000
+3.bufferstock=5000
+
+                                     advertisement
+1.hiring local influncers
+2.avare people about Airbnb 
+
+
+
+
